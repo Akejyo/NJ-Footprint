@@ -2,13 +2,13 @@
   "name": "nj-footprint",
   "version": "1.0.0",
   "description": "Final project for CS 546 Stevens",
-  "homepage": "https://github.com/Akejyo/NJ-Connect#readme",
+  "homepage": "https://github.com/Akejyo/ActiveMeet#readme",
   "bugs": {
-    "url": "https://github.com/Akejyo/NJ-Connect/issues"
+    "url": "https://github.com/Akejyo/ActiveMeet/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Akejyo/NJ-Connect.git"
+    "url": "git+https://github.com/Akejyo/ActiveMeet.git"
   },
   "license": "ISC",
   "author": "",
